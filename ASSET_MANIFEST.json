@@ -1,0 +1,108 @@
+{
+  "project": "SVMart Living Village",
+  "version": "0.1.0",
+  "assets": [
+    {
+      "path": "assets/buildings/commercial-a.glb",
+      "source_pack": "kenney_city-kit-commercial_2.1.zip",
+      "source_member": "Models/GLB format/building-a.glb",
+      "license": "CC0 per included Kenney License.txt"
+    },
+    {
+      "path": "assets/buildings/commercial-d.glb",
+      "source_pack": "kenney_city-kit-commercial_2.1.zip",
+      "source_member": "Models/GLB format/building-d.glb",
+      "license": "CC0 per included Kenney License.txt"
+    },
+    {
+      "path": "assets/buildings/house-a.glb",
+      "source_pack": "kenney_city-kit-suburban_20.zip",
+      "source_member": "Models/GLB format/building-type-a.glb",
+      "license": "CC0 per included Kenney License.txt"
+    },
+    {
+      "path": "assets/buildings/house-d.glb",
+      "source_pack": "kenney_city-kit-suburban_20.zip",
+      "source_member": "Models/GLB format/building-type-d.glb",
+      "license": "CC0 per included Kenney License.txt"
+    },
+    {
+      "path": "assets/vehicles/sedan.glb",
+      "source_pack": "kenney_car-kit.zip",
+      "source_member": "Models/GLB format/sedan.glb",
+      "license": "CC0 per included Kenney License.txt"
+    },
+    {
+      "path": "assets/vehicles/suv.glb",
+      "source_pack": "kenney_car-kit.zip",
+      "source_member": "Models/GLB format/suv.glb",
+      "license": "CC0 per included Kenney License.txt"
+    },
+    {
+      "path": "assets/vehicles/taxi.glb",
+      "source_pack": "kenney_car-kit.zip",
+      "source_member": "Models/GLB format/taxi.glb",
+      "license": "CC0 per included Kenney License.txt"
+    },
+    {
+      "path": "assets/vehicles/van.glb",
+      "source_pack": "kenney_car-kit.zip",
+      "source_member": "Models/GLB format/van.glb",
+      "license": "CC0 per included Kenney License.txt"
+    },
+    {
+      "path": "assets/vehicles/truck.glb",
+      "source_pack": "kenney_car-kit.zip",
+      "source_member": "Models/GLB format/truck.glb",
+      "license": "CC0 per included Kenney License.txt"
+    },
+    {
+      "path": "assets/vehicles/delivery.glb",
+      "source_pack": "kenney_car-kit.zip",
+      "source_member": "Models/GLB format/delivery.glb",
+      "license": "CC0 per included Kenney License.txt"
+    },
+    {
+      "path": "assets/store/cash-register.glb",
+      "source_pack": "kenney_mini-market.zip",
+      "source_member": "Models/GLB format/cash-register.glb",
+      "license": "CC0 per included Kenney License.txt"
+    },
+    {
+      "path": "assets/store/shopping-cart.glb",
+      "source_pack": "kenney_mini-market.zip",
+      "source_member": "Models/GLB format/shopping-cart.glb",
+      "license": "CC0 per included Kenney License.txt"
+    },
+    {
+      "path": "assets/store/freezer.glb",
+      "source_pack": "kenney_mini-market.zip",
+      "source_member": "Models/GLB format/freezer.glb",
+      "license": "CC0 per included Kenney License.txt"
+    },
+    {
+      "path": "assets/store/display-fruit.glb",
+      "source_pack": "kenney_mini-market.zip",
+      "source_member": "Models/GLB format/display-fruit.glb",
+      "license": "CC0 per included Kenney License.txt"
+    },
+    {
+      "path": "assets/store/shelf-boxes.glb",
+      "source_pack": "kenney_mini-market.zip",
+      "source_member": "Models/GLB format/shelf-boxes.glb",
+      "license": "CC0 per included Kenney License.txt"
+    },
+    {
+      "path": "assets/nature/tree-large.glb",
+      "source_pack": "kenney_city-kit-suburban_20.zip",
+      "source_member": "Models/GLB format/tree-large.glb",
+      "license": "CC0 per included Kenney License.txt"
+    },
+    {
+      "path": "assets/nature/tree-small.glb",
+      "source_pack": "kenney_city-kit-suburban_20.zip",
+      "source_member": "Models/GLB format/tree-small.glb",
+      "license": "CC0 per included Kenney License.txt"
+    }
+  ]
+}
